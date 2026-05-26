@@ -1,6 +1,6 @@
 # Henohenon
 portfolio:
-https://henohenon.github.io/app/
+https://henohenon.github.io/
 oss org:
 https://github.com/Project-Starlivia
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henohenon)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henohenon&layout=compact)
